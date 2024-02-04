@@ -1,0 +1,76 @@
+
+
+.wrapper--header{
+    max-width: 1980px;
+    height: 1020px;
+    background-color: #fff;
+}
+.logo--dushnilo{
+    text-align: center;
+}
+.wr--block{
+    display: flex;
+}
+.container--status{
+    width: 713px;
+    height: 493px;
+    background-color: #7AFFA7;
+    border-radius: 20px;
+}
+.container--block{
+    width: 713px;
+    height: 336px;
+    display: flex;
+}
+.block--story{
+    width: 383px;
+    height: 336px;
+    background-color: #000000;
+    border-radius: 20px;
+}
+.block--story h3{
+    color: #fff;
+}
+.text--story p, svg{
+    color: #000000;
+}
+.block--button-story{
+    width: 296px;
+    height: 63px;
+    background-color: #ffffff;
+    border-radius: 70px;
+}
+.block--logo{
+    width: 383px;
+    height: 336px;
+    background-color: #5e0000;
+    border-radius: 20px;
+}
+/* .container--temperature{
+    width: 713px;
+    height: 920px;
+    background-color: #7AFFA7;
+    border-radius: 20px;
+}
+.container--co{
+    width: 713px;
+    height: 920px;
+    background-color: #ff0000;
+    border-radius: 20px;
+} */
+
+.container--temperature{
+    width: 713px;
+    height: 920px;
+    border-radius: 20px;
+}
+.cold{
+    width: 713px;
+    height: 920px;
+    background-color: #7AFFA7;
+}
+.hot{
+    width: 713px;
+    height: 920px;
+    background-color: #ff0000;
+}
